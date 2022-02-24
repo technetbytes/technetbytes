@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 <details>
   
-#### sfstephenfordham@gmail.com
-#### [Linkedin](https://www.linkedin.com/in/stephen-fordham-3262aa172/)
+#### saqibullah@gmail.com
+#### [Linkedin](https://pk.linkedin.com/in/saqib-ullah-siddiqui/)
