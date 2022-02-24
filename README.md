@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Contact me:
+
+<details>
+  
+#### sfstephenfordham@gmail.com
+#### [Linkedin](https://www.linkedin.com/in/stephen-fordham-3262aa172/)
