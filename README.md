@@ -21,7 +21,7 @@ I work with server-side & client-side javascript programming which includes node
 React & Node js with Redis.
 
 
-I build lots of demos and tutorials for Trainings [@technetbytes](https://github.com/technetbytes), I work at [MarkIT Survey](http://www.markitsurvey.com/) as a Lead Developer, check out [MarkIT-Survey Platform](https://console.markitsurvey.com/).
+I build lots of demos and tutorials for Trainings [@technetbytes](https://github.com/technetbytes), I work at [MarkITSurvey](http://www.markitsurvey.com/) as a Lead Developer, check out [MarkIT-Survey Platform](https://console.markitsurvey.com/).
 
   
 **Talking about Personal Stuffs:**
