@@ -26,6 +26,7 @@ I build lots of demos and tutorials for Trainings [@technetbytes](https://github
   
 **Talking about Personal Stuffs:**
 
+- ⚡ I'm a failed startup founder.
 - 👨🏽‍💻 I’m currently working on full stack javascript technologies. 
 - 🌱 I’m currently learning Docker and Kubernetes and working on Personal project
 - 🤔 I provide training to developers open-source technologies
