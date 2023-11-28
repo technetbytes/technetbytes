@@ -61,7 +61,6 @@ I build lots of demos and tutorials for Trainings [@technetbytes](https://github
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=technetbytes&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=merko)](https://github.com/technetbytes)
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=technetbytes&layout=compact)](https://github.com/technetbytes)
 
--[fasf](https://github.com/technetbytes/Programs/tree/master/Python/Spark-Cluster-JuypterLab)
 ### Publications
 
 Articles I've written for Geeks publications.
